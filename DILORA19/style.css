@@ -1,0 +1,189 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: sans-serif;
+}
+
+
+.container {
+    width: 90%;
+    margin: 0 auto;
+}
+
+.header {
+    color: grey;
+    align-items: center;
+    padding-top: 20px;
+    display: flex;
+    justify-content: space-between;
+}
+
+.navbar li {
+    padding: 0 20px;
+    display: inline;
+}
+
+.navbar a {
+    text-decoration: none;
+    font-size: 15px;
+}
+
+.logo img {
+    width: 70%;
+}
+
+
+.btn {
+    border: 1px solid #000F9E;
+    padding: 8px 25px;
+    color: blue;
+    border-radius: 50px;
+}
+
+.btn1 {
+    padding: 8px 25px;
+    background-color: #000F9E;
+    color: white;
+    border-radius: 50px;
+}
+
+.nav li {
+    display: inline;
+    padding: 0 20px;
+}
+
+.nav a {
+    text-decoration: none;
+    color: grey;
+}
+
+.nav li:first-child {
+    padding-left: 0;
+}
+
+.blue {
+    height: 390px;
+    background-color: #000F9E;
+}
+
+.box {
+    color: white;
+    float: left;
+    width: 50%;
+}
+
+.box h1 {
+    padding-top: 150px;
+}
+
+.box img {
+    width: 103%;
+}
+
+.left {
+    padding-left: 200px;
+}
+
+.box li {
+    display: inline;
+}
+
+.box button {
+    border-radius: 5px;
+    border: 1px solid white;
+    background-color: #000F9E;
+    color: white;
+    padding: 8px 25px;
+}
+
+
+.uchlik {
+    margin-top: 100px;
+}
+
+.uch {
+    width: 33.3%;
+    float: left;
+}
+
+.uch h1 {
+    color: #444;
+}
+
+.uch p {
+    color: grey;
+}
+
+.elektr {
+    background-color:#000F9E;
+    margin-top: 300px;
+    height: 340px;
+}
+
+.hamyon {
+    width: 70%;
+    float: left;
+    padding-top: 60px;
+    color: white;
+    font-size: 20px;
+}
+
+.img-tell {
+    width: 30%;
+    float: left;
+}
+
+.img-tell img {
+    width: 100%;
+}
+
+
+
+.prog {
+    margin-top: 100px;
+    margin-bottom: 200px;
+}
+
+.pro {
+    width: 33.3%;
+    float: left;
+    color: #888;
+}
+
+.xizmat {
+    padding: 50px;
+    color: white;
+}
+
+
+.kassa {
+    height: 380px;
+    background-color: #4DBBFF;
+}
+
+
+.qabul {
+    width: 70%;
+    float: left;
+}
+
+
+.qabul li {
+    font-size: 20px;
+}
+
+.img-kassa {
+    width: 30%;
+    float: left;
+}
+
+.img-kassa img {
+    width: 120%;
+    
+}
+.ddd{
+    width: 50%;
+    font-size: initial;
+    padding: 0 auto;
+}
